@@ -13,6 +13,10 @@
 
 ## Role
 
+주제 선정 배경에 대한 근거자료 제시
+
+우선 설치 구역 후보지 선정
+
 ## Contact
 
 mesh153@naver.com
@@ -32,3 +36,5 @@ https://topis.seoul.go.kr/refRoom/openRefRoom_2.do
 -KOSIS
 
 -서울 열린 데이터 광장
+
+
