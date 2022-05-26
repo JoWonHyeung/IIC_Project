@@ -25,6 +25,10 @@ mesh153@naver.com
 
 ## Schedule
 
+5/23 ~ 5/25 : 주제 선정 및 데이터 탐색
+
+5/26 : 작업 환경 설정 및 준비. 또한 시각화 작업 준비
+
 ## Result
 
 ## Data URL
