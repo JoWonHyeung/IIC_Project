@@ -3,13 +3,18 @@
 
 ## Project Name
 
+장애인 주차 구역 위반 방지 서비스
+
 ## Purpose
 
-## Description
+일반인들의 무분별한 장애인 주차공간 이용을 제한하여 장애인 운전자들의 편의성을 확보한다.
 
 ## Stacks
 
+
 ## Period
+
+5/25 ~ 6/28
 
 ## Role
 
@@ -20,8 +25,6 @@
 ## Contact
 
 mesh153@naver.com
-
-## Plan
 
 ## Schedule
 
@@ -43,7 +46,7 @@ mesh153@naver.com
 
 6/3 ~ 6/4 : 뉴스 크롤링
 
-6/5 ~ 6/6 : 연관분석 및 워드 클라우드 분석, AWS 환경 구축
+6/5 ~ 6/6 : 연관분석 및 워드 클라우드 분석, AWS 환경 구축, 가설 설정
 
 ## Result
 
