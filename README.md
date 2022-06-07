@@ -48,6 +48,7 @@ mesh153@naver.com
 
 6/5 ~ 6/6 : 연관분석 및 워드 클라우드 분석, AWS 환경 구축, 가설 설정
 
+6/7 : AWS S3, AI model 연동
 ## Result
 
 ## Data URL
