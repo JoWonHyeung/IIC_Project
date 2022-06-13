@@ -22,6 +22,8 @@
 
 우선 설치 구역 후보지 선정
 
+AI-IOT 파이프라인 구축
+
 ## Contact
 
 mesh153@naver.com
@@ -54,7 +56,9 @@ mesh153@naver.com
       
 6/8 : IOT, AI 파이프라인 구축
 
-6/9 : IOT, AI 파이프라인 구축 
+6/9 : IOT, AI 파이프라인 구축
+
+6/13 : 피드백 내용 적용, 입지 선정
 ## Result
 
 ## Data URL
