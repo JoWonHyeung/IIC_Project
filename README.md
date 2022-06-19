@@ -63,6 +63,8 @@ mesh153@naver.com
 6/14 : 회귀 분석 및 포아송 회귀 분석
 
 6/15~6/16 : AI-IOT 파이프라인 추가작업, 기대 효과 PPT 구성 
+
+6/17~6/19 : 차 표지판 Detect code 파이프 라인 이식 작업 및 테스트
 ## Result
 
 ## Data URL
