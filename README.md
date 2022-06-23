@@ -65,6 +65,8 @@ mesh153@naver.com
 6/15~6/16 : AI-IOT 파이프라인 추가작업, 기대 효과 PPT 구성 
 
 6/17~6/19 : 차 표지판 Detect code 파이프 라인 이식 작업 및 테스트
+
+6/20~6/23 : 시연 영상 제작 및 PPT 
 ## Result
 
 ## Data URL
