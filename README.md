@@ -67,6 +67,10 @@ mesh153@naver.com
 6/17~6/19 : 차 표지판 Detect code 파이프 라인 이식 작업 및 테스트
 
 6/20~6/23 : 시연 영상 제작 및 PPT 
+
+6/24~26 : PPT 협업 작업
+
+6/28 : 최종 
 ## Result
 
 ## Data URL
