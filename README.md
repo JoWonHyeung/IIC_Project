@@ -11,6 +11,7 @@
 
 ## Stacks
 
+python, R
 
 ## Period
 
@@ -70,22 +71,9 @@ mesh153@naver.com
 
 6/24~26 : PPT 협업 작업
 
-6/28 : 최종 
+6/28 : 최종 발표
+
 ## Result
 최우수상 수상
 
-
-## Data URL
-
--Seoul Topis(서울특별시 교통량 정보)
-
-https://topis.seoul.go.kr/refRoom/openRefRoom_2.do
-
--KOSIS
-
--서울 열린 데이터 광장
-
--서울특별시 주차정보안내시스템
-
-https://parking.seoul.go.kr/
 
