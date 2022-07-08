@@ -74,3 +74,24 @@ mesh153@naver.com
 
 ## Result
 최우수상 수상
+
+### ect...
+
+```
+#백그라운드 명령어 & log파일 생성 명령어
+
+nohup python3 -u connect.py >> output.log & 
+
+tail -f output_disable.log
+tail -f output_carnum.log
+
+#프로그램 확인 명령어
+ps -ef | grep connect.py
+
+#프로그램 다운 명령어
+kill -9 7930
+
+#jupyter notebook 생성 명령어
+nohup jupyter-notebook --ip=0.0.0.0 --no-browser --port=8928 &
+```
+
